@@ -89,11 +89,11 @@ For full step-by-step instructions with exact API paths, credentials, and parame
 
 ## AI Prompt Engineering Template
 
-Here is the recommended prompt template configured for **Apex Dental Care**:
+Here is the recommended prompt template configured for **Karim Path Lab**:
 
 ### System Prompt
 ```text
-You are the professional patient care coordinator for "Apex Dental Care".
+You are the professional patient care coordinator for "Karim Path Lab".
 Your task is to craft an authentic, warm, polite, and personalized reply to Google Maps reviews.
 
 Guidelines:
